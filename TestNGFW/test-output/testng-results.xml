@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="4" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Smoke Test" duration-ms="89" started-at="2018-03-25T18:19:33Z" finished-at="2018-03-25T18:19:33Z">
+    <groups>
+    </groups>
+    <test name="smoke Test Cases" duration-ms="89" started-at="2018-03-25T18:19:33Z" finished-at="2018-03-25T18:19:33Z">
+      <class name="annotations.Annotation">
+        <test-method status="PASS" signature="deleteCookies()[pri:0, instance:annotations.Annotation@2f410acf]" name="deleteCookies" is-config="true" duration-ms="1" started-at="2018-03-25T23:49:33Z" finished-at="2018-03-25T23:49:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteCookies -->
+        <test-method status="PASS" signature="openingBrowser()[pri:0, instance:annotations.Annotation@2f410acf]" name="openingBrowser" is-config="true" duration-ms="1" started-at="2018-03-25T23:49:33Z" finished-at="2018-03-25T23:49:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openingBrowser -->
+        <test-method status="PASS" signature="aticketBooking()[pri:0, instance:annotations.Annotation@2f410acf]" name="aticketBooking" duration-ms="1" started-at="2018-03-25T23:49:33Z" finished-at="2018-03-25T23:49:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aticketBooking -->
+        <test-method status="PASS" signature="browserOpened()[pri:0, instance:annotations.Annotation@2f410acf]" name="browserOpened" is-config="true" duration-ms="1" started-at="2018-03-25T23:49:33Z" finished-at="2018-03-25T23:49:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserOpened -->
+        <test-method status="PASS" signature="openingBrowser()[pri:0, instance:annotations.Annotation@2f410acf]" name="openingBrowser" is-config="true" duration-ms="1" started-at="2018-03-25T23:49:33Z" finished-at="2018-03-25T23:49:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openingBrowser -->
+        <test-method status="PASS" signature="timeRelated()[pri:0, instance:annotations.Annotation@2f410acf]" name="timeRelated" duration-ms="15" started-at="2018-03-25T23:49:33Z" finished-at="2018-03-25T23:49:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- timeRelated -->
+        <test-method status="PASS" signature="browserOpened()[pri:0, instance:annotations.Annotation@2f410acf]" name="browserOpened" is-config="true" duration-ms="1" started-at="2018-03-25T23:49:33Z" finished-at="2018-03-25T23:49:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserOpened -->
+        <test-method status="PASS" signature="openingBrowser()[pri:0, instance:annotations.Annotation@2f410acf]" name="openingBrowser" is-config="true" duration-ms="6" started-at="2018-03-25T23:49:33Z" finished-at="2018-03-25T23:49:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openingBrowser -->
+        <test-method status="PASS" signature="xopenBrowser()[pri:0, instance:annotations.Annotation@2f410acf]" name="xopenBrowser" duration-ms="2" started-at="2018-03-25T23:49:33Z" finished-at="2018-03-25T23:49:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- xopenBrowser -->
+        <test-method status="PASS" signature="browserOpened()[pri:0, instance:annotations.Annotation@2f410acf]" name="browserOpened" is-config="true" duration-ms="2" started-at="2018-03-25T23:49:33Z" finished-at="2018-03-25T23:49:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserOpened -->
+        <test-method status="PASS" signature="deleteCookiesAfter()[pri:0, instance:annotations.Annotation@2f410acf]" name="deleteCookiesAfter" is-config="true" duration-ms="6" started-at="2018-03-25T23:49:33Z" finished-at="2018-03-25T23:49:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteCookiesAfter -->
+      </class> <!-- annotations.Annotation -->
+      <class name="annotations.Annotation2">
+        <test-method status="PASS" signature="installDB()[pri:0, instance:annotations.Annotation2@5f8ed237]" name="installDB" is-config="true" duration-ms="21" started-at="2018-03-25T23:49:33Z" finished-at="2018-03-25T23:49:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- installDB -->
+        <test-method status="PASS" signature="unInstallDB()[pri:0, instance:annotations.Annotation2@5f8ed237]" name="unInstallDB" is-config="true" duration-ms="1" started-at="2018-03-25T23:49:33Z" finished-at="2018-03-25T23:49:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- unInstallDB -->
+      </class> <!-- annotations.Annotation2 -->
+    </test> <!-- smoke Test Cases -->
+  </suite> <!-- Smoke Test -->
+</testng-results>
